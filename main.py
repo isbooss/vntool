@@ -1,10 +1,5 @@
 #!/usr/bin/python
 
-# Copyright (C) Anasov <me@anasov.ly> - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
-# Written by Anasov <me@anasov.ly>, 05, May, 2024.
-
 import random
 from time import sleep
 import os, signal, sys
@@ -12,7 +7,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from rich.text import Text
 from rich.style import Style
-from vntool import vntool
+from cpmtool import CPMtool
 
 __CHANNEL_USERNAME__ = "AlexSwanna"
 __GROUP_USERNAME__   = "ErikSwanna"
