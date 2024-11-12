@@ -12,7 +12,7 @@ from rich.console import Console
 from rich.prompt import Prompt, IntPrompt
 from rich.text import Text
 from rich.style import Style
-from cpmtool import CPMtool
+from vntool import vntool
 
 __CHANNEL_USERNAME__ = "AlexSwanna"
 __GROUP_USERNAME__   = "ErikSwanna"
