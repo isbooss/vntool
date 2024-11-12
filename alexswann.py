@@ -2,7 +2,7 @@ import requests
 from time import sleep
 BASE_URL: str = "https://cpmsalebot.ru/api"
 
-class CPMtool:
+class vntool:
 
     def __init__(self, access_key) -> None:
         self.auth_token = None
